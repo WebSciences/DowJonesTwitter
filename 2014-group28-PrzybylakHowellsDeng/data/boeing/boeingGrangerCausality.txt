@@ -1,0 +1,20 @@
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=4.8405  , p=0.0331  , df_denom=44, df_num=1
+ssr based chi2 test:   chi2=5.1705  , p=0.0230  , df=1
+likelihood ratio test: chi2=4.9054  , p=0.0268  , df=1
+parameter F test:         F=4.8405  , p=0.0331  , df_denom=44, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=3.2868  , p=0.0474  , df_denom=41, df_num=2
+ssr based chi2 test:   chi2=7.3753  , p=0.0250  , df=2
+likelihood ratio test: chi2=6.8405  , p=0.0327  , df=2
+parameter F test:         F=3.2868  , p=0.0474  , df_denom=41, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.0968  , p=0.1168  , df_denom=38, df_num=3
+ssr based chi2 test:   chi2=7.4490  , p=0.0589  , df=3
+likelihood ratio test: chi2=6.8930  , p=0.0754  , df=3
+parameter F test:         F=2.0968  , p=0.1168  , df_denom=38, df_num=3
